@@ -1,1 +1,4 @@
 ~$*
+Exercises/Example_environment/*
+*.pyc
+*requirements*
