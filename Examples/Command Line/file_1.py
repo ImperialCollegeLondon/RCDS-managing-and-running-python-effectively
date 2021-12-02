@@ -1,5 +1,3 @@
-print("File 1 Name " + __name__)
-
 # Print the name associated with this file
 print("Name of file_1: " + __name__)
 
