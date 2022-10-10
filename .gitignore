@@ -1,7 +1,7 @@
 ~$*
 Exercises/Example_environment/*
 *.pyc
-Examples/Notebooks/.ipynb_checkpoints
+*/.ipynb_checkpoints
 */_pycache_/*
 Examples/redirection/err.txt
 Examples/redirection/out.txt
