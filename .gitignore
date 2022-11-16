@@ -1,5 +1,5 @@
 ~$*
-Exercises/Example_environment/*
+Example_environment/*
 *.pyc
 */.ipynb_checkpoints
 */_pycache_/*
