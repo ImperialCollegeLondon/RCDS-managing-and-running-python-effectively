@@ -6,3 +6,5 @@ Example_environment/*
 Examples/redirection/err.txt
 Examples/redirection/out.txt
 *.yaml
+requirements_pip.txt
+requirements_conda.txt
