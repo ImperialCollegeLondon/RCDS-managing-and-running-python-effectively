@@ -7,4 +7,5 @@ print("I'm printing")
 
 #If this file has been called directly, call the function
 if __name__ == "__main__":
+    print("Inside if-statement")
     assert_function()
