@@ -1,6 +1,6 @@
 # This function contains an assert statement which will fail
 def assert_function():
-    assert(False)
+    assert False
 
 # This print statement will always be executed
 print("I'm printing")
