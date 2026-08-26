@@ -24,6 +24,15 @@ As each entry is a string, you may need to convert them to approriate types usin
 
 **Tak**: Examine [`Examples/Arguments/addition.py`](Examples/Arguments/addition.py) to see how to use `sys.argv` to get arguments from the command line. Run the code from the command line, providing different numbers of numeric arguments, and see how the output changes.
 
+## Exercise: Division using `sys.argv`
+
+Create a new script named `divider.py` designed to calculate and print the result when one value is divided by another. The script should read arguments provided on the command line. The first is the numerator, the second is the denominator. So, using the command `python divider.py 5.2 2` should cause the value `2.6` to be printed.
+Consider what your code should do if:
+- The number of arguments provided is not 2
+- The arguments cannot be converted to floats
+
+A sample solution can be found in [`sample_solutions/divider.py`](sample_solutions/divider.py).
+
 ### Limits to `sys.argv`
 
 `sys.argv` is a simple way to get arguments from the command line, but it starts to become cumbersome when working with large numbers of arguments, names arguments, or optional arguments. For more complex inputs, you may want to use the [`argparse`](https://docs.python.org/3/library/argparse.html) module, which is also part of the Python standard library.
