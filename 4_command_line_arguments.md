@@ -22,7 +22,7 @@ python my_program.py arg1 arg2 arg3
 
 As each entry is a string, you may need to convert them to approriate types using functions like `int()` or `float()` if you want to use them as numbers or `bool()` if you want to use them as booleans.
 
-**Tak**: Examine [`Examples/Arguments/addition.py`](Examples/Arguments/addition.py) to see how to use `sys.argv` to get arguments from the command line. Run the code from the command line, providing different numbers of numeric arguments, and see how the output changes.
+**Tak**: Examine [`examples/arguments/addition.py`](examples/arguments/addition.py) to see how to use `sys.argv` to get arguments from the command line. Run the code from the command line, providing different numbers of numeric arguments, and see how the output changes.
 
 ## Exercise: Division using `sys.argv`
 
