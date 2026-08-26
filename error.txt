@@ -1,4 +1,0 @@
-Traceback (most recent call last):
-  File "/workspaces/RCDS-managing-and-running-python-effectively/Examples/Redirection/redirection.py", line 6, in <module>
-    raise ValueError("The value of i was " + str(i) + ", which is too high!")
-ValueError: The value of i was 6, which is too high!
