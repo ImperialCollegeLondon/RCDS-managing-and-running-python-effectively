@@ -8,11 +8,11 @@ To complete this course, you will need to run Python files on your computer. You
 
 ### Face to Face Course
 
-This course will take place in a college computer room. If you do not bring a laptop you can use a college computer, and will find this easiest if you use  a Codespace (see the instructions [below](#opening-a-codespace)). You may also bring your own laptop and run the course and run the materials in a Codespace (see the instructions [below](#opening-a-codespace)) or locally on your own computer (see the instructions [below](#running-the-course-locally)).
+This course will take place in a college computer room. If you do not bring a laptop you can use a college computer, and will find this easiest if you use a Codespace (see the instructions [below](#opening-a-codespace)). You may also bring your own laptop and run the course and run the materials in a Codespace (see the instructions [below](#opening-a-codespace)) or locally on your own computer (see the instructions [below](#running-the-course-locally)).
 
 ### Self-Study Instructions
 
-This course is best experienced through a live session (online webinar or in-person workshop) and it is strongly recommended to attend such a course if possible. However, this course can also be completed through self-study from this repository. You can run the files in a Codespace (see the instructions [below](#opening-a-codespace)) or locally on your own computer (see the instructions [below](#running-the-course-locally)). 
+This course is best experienced through a live session (online webinar or face to face workshop) and it is strongly recommended to attend such a course if possible. However, this course can also be completed through self-study from this repository. You can run the files in a Codespace (see the instructions [below](#opening-a-codespace)) or locally on your own computer (see the instructions [below](#running-the-course-locally)). 
 
 Once you have the materials open, you should work through the numbered files in order.
 
