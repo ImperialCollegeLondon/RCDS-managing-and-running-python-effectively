@@ -1,9 +1,6 @@
 ~$*
-Example_environment/*
 *.pyc
 */.ipynb_checkpoints
 */_pycache_/*
-Examples/redirection/err.txt
-Examples/redirection/out.txt
 requirements.txt
 /myenv/
