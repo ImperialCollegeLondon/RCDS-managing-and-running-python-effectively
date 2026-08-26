@@ -12,13 +12,9 @@ This course will take place in a college computer room. If you do not bring a la
 
 ### Self-Study Instructions
 
-This course is best experienced through a live session (online webinar or in-person workshop) and it is strongly recommended to attend such a course if possible. However, this course can also be completed through self-study from this repository. Before beginning the course, you should install on your computer:
+This course is best experienced through a live session (online webinar or in-person workshop) and it is strongly recommended to attend such a course if possible. However, this course can also be completed through self-study from this repository. You can run the files in a Codespace (see the instructions [below](#opening-a-codespace)) or locally on your own computer (see the instructions [below](#running-the-course-locally)). 
 
-* [Anaconda](https://www.anaconda.com/products/individual)
-* [A recent edition of the Python interpreter](https://www.python.org/downloads/)
-* [Visual Studio Code](https://code.visualstudio.com/download)
-
-You should also [download the course materials](https://github.com/coolernato/Managing-and-Running-Python-Effectively/archive/refs/heads/main.zip) to your computer. You will then be able to work through the PowerPoint slide show. When doing so, make sure to read the "notes" section under the slide as this will expand upon the content of the slides.
+Once you have the materials open, you should work through the numbered files in order.
 
 ## Opening a Codespace
 
